@@ -1,2 +1,0 @@
-# NImesh2
-assignment
